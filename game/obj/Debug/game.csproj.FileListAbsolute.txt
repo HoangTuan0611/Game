@@ -1,0 +1,33 @@
+D:\visual nha\game\game\bin\Debug\game.exe.config
+D:\visual nha\game\game\bin\Debug\game.exe
+D:\visual nha\game\game\bin\Debug\game.pdb
+D:\visual nha\game\game\obj\Debug\game.csprojAssemblyReference.cache
+D:\visual nha\game\game\obj\Debug\game.Form1.resources
+D:\visual nha\game\game\obj\Debug\game.Properties.Resources.resources
+D:\visual nha\game\game\obj\Debug\game.csproj.GenerateResource.cache
+D:\visual nha\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+D:\visual nha\game\game\obj\Debug\game.exe
+D:\visual nha\game\game\obj\Debug\game.pdb
+D:\visual nha\game\game\obj\Debug\game.Form2.resources
+E:\DOWNLOADED\game\game\bin\Debug\game.exe.config
+E:\DOWNLOADED\game\game\bin\Debug\game.exe
+E:\DOWNLOADED\game\game\bin\Debug\game.pdb
+E:\DOWNLOADED\game\game\obj\Debug\game.csprojAssemblyReference.cache
+E:\DOWNLOADED\game\game\obj\Debug\game.Form1.resources
+E:\DOWNLOADED\game\game\obj\Debug\game.Form2.resources
+E:\DOWNLOADED\game\game\obj\Debug\game.Properties.Resources.resources
+E:\DOWNLOADED\game\game\obj\Debug\game.csproj.GenerateResource.cache
+E:\DOWNLOADED\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+E:\DOWNLOADED\game\game\obj\Debug\game.exe
+E:\DOWNLOADED\game\game\obj\Debug\game.pdb
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Pratice\30%\10%\game\bin\Debug\game.exe.config
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Pratice\30%\10%\game\bin\Debug\game.exe
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Pratice\30%\10%\game\bin\Debug\game.pdb
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Pratice\30%\10%\game\obj\Debug\game.csprojAssemblyReference.cache
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Pratice\30%\10%\game\obj\Debug\game.Form1.resources
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Pratice\30%\10%\game\obj\Debug\game.Form2.resources
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Pratice\30%\10%\game\obj\Debug\game.Properties.Resources.resources
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Pratice\30%\10%\game\obj\Debug\game.csproj.GenerateResource.cache
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Pratice\30%\10%\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Pratice\30%\10%\game\obj\Debug\game.exe
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Pratice\30%\10%\game\obj\Debug\game.pdb
